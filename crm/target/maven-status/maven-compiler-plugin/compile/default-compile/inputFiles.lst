@@ -1,0 +1,11 @@
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\service\IBaseService.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\domain\Employee.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\mapper\EmployeeMapper.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\service\IEmployeeService.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\utils\PageResult.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\utils\AjaxResult.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\web\controller\EmployeeController.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\service\impl\BaseServiceImpl.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\service\impl\EmployeeServiceImpl.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\mapper\BaseMapper.java
+E:\ideaProject\crm\src\main\java\cn\cduestc\crm\query\BaseQuery.java
